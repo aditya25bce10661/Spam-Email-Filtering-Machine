@@ -20,7 +20,7 @@ ________________________________________
 
 To run this project, you need Python installed along with the scikit-learn library.
 
-  pip install scikit-learn
+     pip install scikit-learn
 
 ________________________________________
 
