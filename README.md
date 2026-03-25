@@ -26,7 +26,7 @@ ________________________________________
 
 **📂 File Structure**
 
-•	*main.py*: The core script containing the dataset, model training, and prediction logic.
+•	*Spam_Email_Filtering.py*: The core script containing the dataset, model training, and prediction logic.
 
 •	*README.md*: Project documentation (this file).
 
