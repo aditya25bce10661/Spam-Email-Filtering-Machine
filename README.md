@@ -78,6 +78,6 @@ To run this project, you need Python installed along with the scikit-learn libra
 
      pip install scikit-learn
      
-Then you can open the Spam_Email_Filtering.py file to access the code and then change the prompt in the new_email in the code at last. This is the email that the ai model will read and declare it as a spam or not spam email. Then simply run it directly or use the command prompt terminal using the {your file name}.py.
+Then you can open the Spam_Email_Filtering.py file to access the code and then change the prompt in the new_email in the code at last(precisely on line 154 only). This is the email that the ai model will read and declare it as a spam or not spam email. Then simply run it directly or use the command prompt terminal using the {your file name}.py.
 The output will be visible on the screen which will show whether the email is a spam or not and even show how accurately it has solved this spam filtering process.
 
